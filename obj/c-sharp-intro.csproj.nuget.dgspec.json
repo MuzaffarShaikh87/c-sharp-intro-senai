@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro\\c-sharp-intro.csproj": {}
+    "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro-senai\\c-sharp-intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro\\c-sharp-intro.csproj": {
+    "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro-senai\\c-sharp-intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro\\c-sharp-intro.csproj",
+        "projectUniqueName": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro-senai\\c-sharp-intro.csproj",
         "projectName": "c-sharp-intro",
-        "projectPath": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro\\c-sharp-intro.csproj",
+        "projectPath": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro-senai\\c-sharp-intro.csproj",
         "packagesPath": "C:\\Users\\Muzaffar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro\\obj\\",
+        "outputPath": "C:\\Users\\Muzaffar\\TECHCareers\\projects\\c-sharp-intro-senai\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
