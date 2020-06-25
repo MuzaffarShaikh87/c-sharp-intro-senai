@@ -14,6 +14,10 @@ namespace c_sharp_intro
             string userName = Console.ReadLine();
             Console.WriteLine("Your name is:" + userName);
             Console.WriteLine("Hey {0} how are you doing", userName);
+
+            Console.WriteLine(userName.ToLower());
+            Console.WriteLine(userName.ToUpper());
+            Console.WriteLine(userName.Substring(2,5));
         }
     }
 }
