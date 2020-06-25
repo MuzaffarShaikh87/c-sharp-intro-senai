@@ -10,8 +10,10 @@ namespace c_sharp_intro
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello " + myName);
 
+            Console.WriteLine("Please Enter your name");
             string userName = Console.ReadLine();
-            Console.WriteLine("Please Enter Your Name Here:" + userName);
+            Console.WriteLine("Your name is:" + userName);
+            Console.WriteLine("Hey {0} how are you doing", userName);
         }
     }
 }
